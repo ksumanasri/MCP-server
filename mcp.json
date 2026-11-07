@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"helloMcp": {
+			"type": "stdio",
+			"command": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+			"args": ["server.py"]
+		}
+	}
+}
